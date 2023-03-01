@@ -1,0 +1,4 @@
+anna - yes
+civic - yes
+racecar - yes
+remote - no
